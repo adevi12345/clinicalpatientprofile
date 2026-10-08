@@ -11,7 +11,7 @@ app_ui <- function(request) {
     
     fluidPage(
       
-      titlePanel("Clinical Patient Viewer"),
+      titlePanel("Clinical Patient Viewer anjana added"),
       
       sidebarLayout(
         

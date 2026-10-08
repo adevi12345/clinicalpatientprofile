@@ -3,11 +3,11 @@ name: R CI
 on:
   push:
     branches:
-      - develop
+      - dev
 
   pull_request:
     branches:
-      - develop
+      - dev
 
 permissions: read-all
 
